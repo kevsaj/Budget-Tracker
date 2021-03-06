@@ -13,13 +13,13 @@ Page is live: [on Heroku](https://immense-castle-02383.herokuapp.com/)
 ![Should Look like this lol](https://github.com/kevsaj/Budget-Tracker/blob/main/public/img/gif.gif)
 
 # Installation
-* Learn PWA magic magic!
+* Learn offline PWA magic!
 * Get Motivated
 * Create Budget Tracker to meet criteria
 * Upload to Github 
 
 # Usage
-* To practice with PWA, MongoDB, Mongoose.js
+* To practice with PWA, MongoDB, Mongoose.js, Heroku
 
 # Credits
 * The Universe - thanks
